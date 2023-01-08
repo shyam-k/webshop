@@ -4,7 +4,7 @@
 
 ***Startup***
 
-The ddev environment can be created very easily:
+The ddev environment can be created very easily by running following command from the root folder:
 
 ```
 ddev start
